@@ -3,7 +3,7 @@
 Errores:
 si el jugador se pasa de 21 debería poner que pierde, en vez de pasar al turno del crupier
 
-´´´from random import choice, sample
+from random import choice, sample
 #Creamos una diccionario asignandole a cada carta su valor
 cartas = {
     chr(0x1f0a1): 11,
