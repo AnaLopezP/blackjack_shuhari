@@ -3,6 +3,8 @@
 Errores:
 si el jugador se pasa de 21 debería poner que pierde, en vez de pasar al turno del crupier
 
+Enlace del repositorio https://github.com/AnaLopezP/blackjack_shuhari
+
 ´´´
 from random import choice, sample
 #Creamos una diccionario asignandole a cada carta su valor
