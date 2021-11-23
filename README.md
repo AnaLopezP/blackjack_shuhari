@@ -3,7 +3,7 @@
 Errores:
 si el jugador se pasa de 21 debería poner que pierde, en vez de pasar al turno del crupier
 
-Enlace del repositorio https://github.com/AnaLopezP/blackjack_shuhari
+Enlace del repositorio [https://github.com/AnaLopezP/blackjack_shuhari](https://github.com/AnaLopezP/blackjack_shuhari/blob/main/DIAGRAMA%20DE%20FLUJO.jpg)
 
 ´´´
 from random import choice, sample
